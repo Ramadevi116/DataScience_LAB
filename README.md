@@ -1,3 +1,3 @@
 ### Exp-06 Feature-Transformation
-### Exp-07 Feature Selection TechniquesAssignment
-### Exp-08 Data VisualizationAssignment
+### Exp-07 Feature Selection Techniques
+### Exp-08 Data Visualization
